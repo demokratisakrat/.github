@@ -6,7 +6,7 @@ Demokratisäkrat bygger öppna verktyg som ska göra det lättare att tänka ige
 
 ## Verktyg
 
-- **[Konsekvenskompassen](https://demokratisakrat.johan-4b5.workers.dev)** — en valkompass som inte bara frågar vad du tycker: den visar vad dina svar kostar, och vem som får betala. ([källkod](https://github.com/demokratisakrat/konsekvenskompassen))
+- **[Konsekvenskompassen](https://konsekvenskompassen.johan-4b5.workers.dev)** — en valkompass som inte bara frågar vad du tycker: den visar vad dina svar kostar, och vem som får betala. ([källkod](https://github.com/demokratisakrat/konsekvenskompassen))
 
 <!-- TODO: byt verktygslänken till https://konsekvenskompassen.se när domänen är kopplad -->
 
