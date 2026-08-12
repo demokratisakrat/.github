@@ -6,7 +6,7 @@ Demokratisäkrat bygger öppna verktyg som ska göra det lättare att tänka ige
 
 ## Verktyg
 
-- **[Konsekvenskompassen](https://konsekvenskompassen.se)** — en valkompass som inte bara frågar vad du tycker: den visar vad dina svar kostar, och vem som får betala. ([källkod](https://github.com/demokratisakrat/konsekvenskompassen))
+- **[Valsnack](https://valsnack.se)** — en valkompass som inte bara frågar vad du tycker: den visar vad dina svar kostar, och vem som får betala. ([källkod](https://github.com/demokratisakrat/konsekvenskompassen))
 
 
 Fristående och ideellt, utan koppling till parti eller organisation, utan extern finansiering och utan annonser. Kontakt: demokratisakrat@gastrin.se
